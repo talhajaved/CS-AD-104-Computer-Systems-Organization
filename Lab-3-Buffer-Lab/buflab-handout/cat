@@ -1,0 +1,6 @@
+/home/tj626/buflab-handout/bufbomb: Missing required argument (-u <userid)
+Usage: /home/tj626/buflab-handout/bufbomb -u <userid> [-nsh]
+  -u <userid> User ID
+  -n          Nitro mode
+  -s          Submit your solution to the grading server
+  -h          Print help information
